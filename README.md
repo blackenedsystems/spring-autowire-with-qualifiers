@@ -1,0 +1,1 @@
+Run with -Dgreeting.language=german or -Dgreeting.language=english
